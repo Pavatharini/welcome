@@ -1,1 +1,6 @@
 # welcome
+Hai I am pava.This is my first experience in github... 
+
+I like this very much.
+I am currently doing 3rd year in St.Josephs institute of technology... 
+ 
